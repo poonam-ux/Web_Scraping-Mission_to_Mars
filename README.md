@@ -37,7 +37,7 @@ Scrape the NASA Mars News Site and collect the latest News Title and Paragraph T
     * Save both the image URL string for the full resolution hemisphere image, and the Hemisphere title containing the hemisphere name. Use a Python dictionary to store the data using the keys img_url and title.
     * Append the dictionary with the image URL string and the hemisphere title to a list. This list will contain one dictionary for each hemisphere.
 
-![]()
+![](https://github.com/poonam-ux/web-scraping-challenge_mission-to-mars/blob/main/Missions_to_Mars/Images/hemisphere_title_urls_sm.png)
 
 ### Step 2 - MongoDB and Flask Application
 
