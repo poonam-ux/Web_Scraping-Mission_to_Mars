@@ -23,7 +23,7 @@ Scrape the NASA Mars News Site and collect the latest News Title and Paragraph T
     * Make sure to find the image URL to the full size .jpg image
     * Make sure to save a complete URL string for this image
     
-![]()
+![](https://github.com/poonam-ux/web-scraping-challenge_mission-to-mars/blob/main/Missions_to_Mars/Images/featured_img_url.png)
 
 * Mars Facts
     * Visit the Mars Facts webpage and use Pandas to scrape the table containing facts about the planet including Diameter, Mass, etc.
