@@ -47,7 +47,7 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 * Create a route called /scrape that will import the scrape_mars.py script and call the scrape function.
     * Store the return value in Mongo as a Python Dictionary
 
-![]()
+![](https://github.com/poonam-ux/web-scraping-challenge_mission-to-mars/blob/main/Missions_to_Mars/Images/mongodb_mars_collection_sm.png)
 
 * Create a root route / that will query the Mongo database and pass the Mars Data into an HTML template to display the data.
 
